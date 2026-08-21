@@ -6,6 +6,7 @@
 https://blog.csdn.net/ming12131342/article/details/140233867
 
 conda create -n pp-ocr python=3.11
+
 conda activate pp-ocr
 
 ## 以下3种方式选择一种
