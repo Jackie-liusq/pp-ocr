@@ -1,3 +1,7 @@
+# 这是一个简单的使用pp-ocr进行图片、pdf文字提取的脚本
+
+
+
 ## 安装conda环境，教程：
 https://blog.csdn.net/ming12131342/article/details/140233867
 
